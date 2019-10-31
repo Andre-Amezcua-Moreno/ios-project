@@ -51,11 +51,11 @@ Que Dijo is a translating application that allows Spanish speaking users to tran
 ### Milestones
 > Insert milestones here
 > 
-Nov 4 - Have the GUI done
-Nov 11 - Have Core ML running, and uploading picture
-Nov 18 - Have Core ML translating properly
-Nov 25 - Have the app be able to download picture ( maybe: translate to and from other languages)
-Dec 2 - Testing last minute bug fix
+> * Nov 4 - Have the GUI done
+> * Nov 11 - Have Core ML running, and uploading picture
+> * Nov 18 - Have Core ML translating properly
+> * Nov 25 - Have the app be able to download picture ( maybe: translate to and from other languages)
+> * Dec 2 - Testing last minute bug fix
 
 ### Wireframes 
 
